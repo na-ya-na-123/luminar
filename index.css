@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin: 0;
+    border-radius: 0%;
+    box-sizing: border-box;
+
+}
+input{
+    border: none;
+}
+label{
+    border: none;
+}
+textarea{
+border: none
+
+}
+select{
+    border: none;
+}
+@media(max-width::after){
+    div1{
+        background-size: 0%;
+    }
+}
+
+
+
